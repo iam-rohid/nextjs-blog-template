@@ -1,0 +1,29 @@
+{
+  "name": "nextjs-blog-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rohid-hub/nextjs-blog-template.git",
+  "author": "rohid <rohidul209@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.34",
+    "@types/react-dom": "^17.0.11",
+    "autoprefixer": "^10.4.0",
+    "eslint": "8.2.0",
+    "eslint-config-next": "12.0.3",
+    "next": "^12.0.3",
+    "postcss": "^8.3.11",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.43.4",
+    "tailwindcss": "^2.2.19",
+    "typescript": "^4.4.4"
+  }
+}
